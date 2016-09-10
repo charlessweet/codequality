@@ -40,8 +40,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Communication\ExampleOne.cs" />
-    <Compile Include="Communication\ExampleTwo.cs" />
+    <Compile Include="Communication\Example1_HumanReadable.cs" />
+    <Compile Include="Communication\Example4_DevelopersCanBeVague.cs" />
+    <Compile Include="Communication\Example2_DeveloperDialect.cs" />
+    <Compile Include="Communication\Example3_DevelopersSometimesMumble.cs" />
+    <Compile Include="Design\Example5_DevelopersTalkALot.cs" />
+    <Compile Include="Design\Example6_DevelopersRepeatWhatYouSay.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
